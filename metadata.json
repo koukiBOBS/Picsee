@@ -1,0 +1,6 @@
+{
+  "name": "Picsee",
+  "description": "A sophisticated, premium dark-themed media gallery supporting local directory scanning, raw image inspection, ZIP archive browsing, custom folder groups, and interactive tag filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
